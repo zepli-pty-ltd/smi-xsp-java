@@ -4,7 +4,7 @@
 
     <groupId>au.gov.nehta</groupId>
     <artifactId>smi-xsp</artifactId>
-    <version>1.2.1</version>
+    <version>1.2.2-SNAPSHOT</version>
     <name>XML Secured Payload Profiles</name>
     <description>Java classes for XML Secured Payload Profiles</description>
     <url>https://github.com/AuDigitalHealth/smi-xsp-java</url>
