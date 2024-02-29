@@ -16,7 +16,7 @@ package au.gov.nehta.common.utils;
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 
-import javax.xml.bind.*;
+import jakarta.xml.bind.*;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.Source;
 import javax.xml.transform.dom.DOMSource;
